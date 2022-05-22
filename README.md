@@ -1,2 +1,2 @@
 # Estudos-Modulo-Java-dio
-estudos sobre modulos em Java
+estudos sobre metodos em Java
